@@ -1,4 +1,4 @@
-# <Work-Day-Planner>
+# Work-Day-Planner
 
 ## Motivation
 The motivation for this project is to create a website that allows users to organize their day with a planner. Working hours of 9am-5pm are allotted for the user to input their tasks. The user can then save these tasks for future reference. The planner is updated real time vua color code to allow user to see what time slots are in the past, are current or in the future. The simple yet responsive design of the website is stream-lined for use on various screen sizes.
