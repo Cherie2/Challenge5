@@ -62,7 +62,6 @@ function saveTask() {
         localStorage.setItem(hour, JSON.stringify(inputText));
         var save = localStorage.getItem(hour, inputText); 
     })
-    
 } 
 
 today();
