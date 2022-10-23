@@ -7,6 +7,8 @@ In completing this project I have learned the fundamentals of JQuery in associat
 
 ![Work-Day-Planner](/assets/127.0.0.1_5500_index.html.png)
 
+https://cherie2.github.io/Work-Day-Planner/
+
 ## Features
   
   * Allows users the ability to save their daily tasks to reference for later
@@ -35,7 +37,7 @@ In order to utilize this website, user must have access to a web browser.
 
 This website allows for users to choose a timeslot and list tasks they need to complete for the day. The planner will be color coated to display what is the past, current, and future timeslots for the day. When the user is finished inputting their tasks for the day, there is a feature to save the list for future reference.
 
-link provided here 
+link provided here https://cherie2.github.io/Work-Day-Planner/
 
 ## Credits
 
