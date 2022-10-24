@@ -5,7 +5,7 @@ The motivation for this project is to create a website that allows users to orga
 
 In completing this project I have learned the fundamentals of JQuery in association with moment.js. In using both jQuery and the moment.js library, I have been able to exercise knowledge in the use of variables, functions, for loops, event listeners, local storage, data attributes, time structure, and creating/appending elements in HTML.
 
-![Work-Day-Planner](/assets/cherie2.github.io_Work-Day-Planner_ (1).png)
+![Work-Day-Planner](/assets/planner.png)
 
 https://cherie2.github.io/Work-Day-Planner/
 
